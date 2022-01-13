@@ -1,0 +1,5 @@
+github commands 
+git init
+git add 
+git commit
+git origins
